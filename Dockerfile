@@ -32,3 +32,4 @@ RUN pip install --no-cache-dir -r requirements.txt \
 
 # 暴露端口（用于web demo）
 EXPOSE 7860
+# 触发
